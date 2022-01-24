@@ -66,7 +66,7 @@ mappedWords.set("before", "ere");
 mappedWords.set("possess", "possesseth");
 mappedWords.set("idk", "I know not");
 
-const bot = new Telegraf("525376101:AAEDew-9GlwBQuvbcNYQVcrFCVTYh0RgUb8");
+const bot = new Telegraf(process.env.TELEGRAM_KEY);
 
 function Translate(input: string):string
 {
