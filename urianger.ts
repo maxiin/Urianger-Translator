@@ -48,6 +48,7 @@ mappedWords.set("tomorrow", "morrow");
 mappedWords.set("want", "desire");
 mappedWords.set("weird", "strange");
 mappedWords.set("will", "shall");
+mappedWords.set("wont", "shall not");
 mappedWords.set("win", "prevail");
 mappedWords.set("written", "writ");
 mappedWords.set("yes", "aye");
